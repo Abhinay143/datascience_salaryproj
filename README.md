@@ -1,5 +1,5 @@
 # datascience_salary.proj
 
-## resorces
+## resources
 
 https://github.com/aragfaik/scrapping-glassdoor-selenium
